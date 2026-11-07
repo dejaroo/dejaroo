@@ -1,6 +1,6 @@
 ### well hello.
 
-👋 I'm a developer at Overleaf! Before that, I was working at News UK, building the new CMS for The Times and The Sunday Times. And further back, I spent four years working for BBC News Labs to build innovative editorial tools and audience-facing formats.
+👋 I'm a software developer. Most recently, I worked on B2C initiatives at Overleaf. Before that, I was working at News UK, building the new CMS for The Times and The Sunday Times. And further back, I spent four years working for BBC News Labs to build innovative editorial tools and audience-facing formats.
 
 
 ### open source things
